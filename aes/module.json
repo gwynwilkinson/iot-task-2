@@ -1,0 +1,12 @@
+{
+  "name": "aes",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "description": "AES-128-ECB implementation for Shancang Li - Due 22 Oct 2018",
+  "author": "Gwyn Wilkinson",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  }
+}

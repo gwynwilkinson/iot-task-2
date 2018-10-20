@@ -1,0 +1,12 @@
+{
+  "name": "sha2",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "description": "SHA-1 implementation for Shancang Li - due 22 Oct 2018",
+  "author": "Gwyn Wilkinson",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  }
+}

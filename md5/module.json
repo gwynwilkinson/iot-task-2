@@ -1,0 +1,12 @@
+{
+  "name": "md5",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "description": "md5 implementation on microbit for Shancang Li - due 22 Oct 2018",
+  "author": "Gwyn Wilkinson",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  }
+}
